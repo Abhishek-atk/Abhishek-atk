@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK A T K</h1>
-<h3 align="center">Highly skilled MERN Stack developer</h3>
+<h3 align="center">Skilled MERN Stack developer</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
